@@ -1,0 +1,9 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\BlueYonder.FrequentFlyerService.Contracts.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\BlueYonder.FrequentFlyerService.Contracts.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\Newtonsoft.Json.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\BlueYonder.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\bin\Debug\Newtonsoft.Json.xml
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\obj\Debug\BlueYonder.FrequentFlyerService.Contracts.csprojResolveAssemblyReference.cache
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\obj\Debug\BlueYonder.FrequentFlyerService.Contracts.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Server.FrequentFlyer.Contracts\obj\Debug\BlueYonder.FrequentFlyerService.Contracts.pdb

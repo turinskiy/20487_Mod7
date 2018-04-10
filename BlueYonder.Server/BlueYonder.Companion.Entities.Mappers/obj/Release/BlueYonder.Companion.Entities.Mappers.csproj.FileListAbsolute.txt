@@ -1,0 +1,11 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Companion.Entities.Mappers.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Companion.Entities.Mappers.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Companion.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\Newtonsoft.Json.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Companion.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\BlueYonder.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\bin\Release\Newtonsoft.Json.xml
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\obj\Release\BlueYonder.Companion.Entities.Mappers.csprojResolveAssemblyReference.cache
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\obj\Release\BlueYonder.Companion.Entities.Mappers.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities.Mappers\obj\Release\BlueYonder.Companion.Entities.Mappers.pdb

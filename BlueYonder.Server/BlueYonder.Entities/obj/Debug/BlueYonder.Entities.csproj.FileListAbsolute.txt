@@ -1,0 +1,6 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\bin\Debug\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\bin\Debug\BlueYonder.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\bin\Debug\Newtonsoft.Json.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\obj\Debug\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Entities\obj\Debug\BlueYonder.Entities.pdb

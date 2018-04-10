@@ -1,0 +1,4 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities\bin\Release\BlueYonder.Companion.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities\bin\Release\BlueYonder.Companion.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities\obj\Release\BlueYonder.Companion.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Entities\obj\Release\BlueYonder.Companion.Entities.pdb

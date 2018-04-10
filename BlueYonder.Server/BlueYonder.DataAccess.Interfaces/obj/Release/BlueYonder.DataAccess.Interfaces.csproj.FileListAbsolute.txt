@@ -1,0 +1,9 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\BlueYonder.DataAccess.Interfaces.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\BlueYonder.DataAccess.Interfaces.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\Newtonsoft.Json.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\BlueYonder.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\bin\Release\Newtonsoft.Json.xml
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\obj\Release\BlueYonder.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\obj\Release\BlueYonder.DataAccess.Interfaces.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.DataAccess.Interfaces\obj\Release\BlueYonder.DataAccess.Interfaces.pdb

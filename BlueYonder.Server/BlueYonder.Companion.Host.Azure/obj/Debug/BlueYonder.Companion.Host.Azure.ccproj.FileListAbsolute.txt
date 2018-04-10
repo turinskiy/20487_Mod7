@@ -1,0 +1,2 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Host.Azure\bin\Debug\ServiceConfiguration.cscfg
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.Companion.Host.Azure\bin\Debug\ServiceDefinition.csdef

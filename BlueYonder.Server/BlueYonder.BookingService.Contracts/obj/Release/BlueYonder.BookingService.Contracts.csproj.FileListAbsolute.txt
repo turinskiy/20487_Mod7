@@ -1,0 +1,9 @@
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\BlueYonder.BookingService.Contracts.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\BlueYonder.BookingService.Contracts.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\BlueYonder.Entities.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\Newtonsoft.Json.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\BlueYonder.Entities.pdb
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\bin\Release\Newtonsoft.Json.xml
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\obj\Release\BlueYonder.BookingService.Contracts.csprojResolveAssemblyReference.cache
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\obj\Release\BlueYonder.BookingService.Contracts.dll
+D:\Storage\20487\TEMP\Mod07\Labfiles\begin\BlueYonder.Server\BlueYonder.BookingService.Contracts\obj\Release\BlueYonder.BookingService.Contracts.pdb
